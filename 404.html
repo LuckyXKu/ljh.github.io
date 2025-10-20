@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <META name="viewport" content="width=device-width,">
+    <title>no</title>
+</head>
+<body>
+    <h1>网页错误哦</h1>
+    <h2>林炬辉</h2>
+    <h3>2023101320419</h3>
+</body>
+</html>
